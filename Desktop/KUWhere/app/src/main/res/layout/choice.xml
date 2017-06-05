@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/GreenYellow">
+
+    <Button
+        android:id="@+id/random"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Random"
+        android:background="@color/FloralWhite"
+        android:fontFamily="casual"
+        android:layout_marginTop="183dp"
+        android:layout_below="@+id/select"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:id="@+id/show_all"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Show All"
+        android:background="@color/FloralWhite"
+        android:fontFamily="casual"
+        android:layout_marginTop="18dp"
+        android:layout_below="@+id/random"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:id="@+id/select"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="cursive"
+        android:text="Select Your Way!"
+        android:textSize="30dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="46dp" />
+</RelativeLayout>

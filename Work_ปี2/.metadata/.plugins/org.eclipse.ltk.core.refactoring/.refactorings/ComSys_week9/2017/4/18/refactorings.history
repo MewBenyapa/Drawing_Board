@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;EvaluateSumForkJoinTask&apos; to &apos;CountForkJoinTask&apos;&#x0D;&#x0A;- Original project: &apos;ComSys_week9&apos;&#x0D;&#x0A;- Original element: &apos;EvaluateSumForkJoinTask&apos;&#x0D;&#x0A;- Renamed element: &apos;CountForkJoinTask&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;EvaluateSumForkJoinTask&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{concurrentCount2.java[EvaluateSumForkJoinTask" matchStrategy="1" name="CountForkJoinTask" qualified="false" references="true" similarDeclarations="false" stamp="1493568469028" textual="false" version="1.0"/>
+</session>

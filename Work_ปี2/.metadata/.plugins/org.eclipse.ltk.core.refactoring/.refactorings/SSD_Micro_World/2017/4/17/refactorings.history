@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename field &apos;leUnit&apos; in &apos;Game&apos; to &apos;legacyUnit&apos;&#x0D;&#x0A;- Original project: &apos;SSD_Micro_World&apos;&#x0D;&#x0A;- Original element: &apos;Game.leUnit&apos;&#x0D;&#x0A;- Renamed element: &apos;Game.legacyUnit&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" delegate="false" deprecate="false" description="Rename field &apos;leUnit&apos;" flags="589826" getter="false" id="org.eclipse.jdt.ui.rename.field" input="/src&lt;{Game.java[Game^leUnit" name="legacyUnit" references="true" setter="false" stamp="1493266376306" textual="false" version="1.0"/>
+</session>

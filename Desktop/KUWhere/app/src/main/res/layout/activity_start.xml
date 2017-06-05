@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.lenovo.kuwhere.list.StartActivity">
+
+
+    <Button
+        android:id="@+id/let_eat"
+        android:layout_width="221dp"
+        android:layout_height="40dp"
+        android:text="Let's eat"
+        android:background="#ffffff"
+        android:textColor="#000000"
+        android:textSize="30dp"
+        android:fontFamily="casual"
+        tools:layout_editor_absoluteX="82dp"
+        tools:layout_editor_absoluteY="235dp" />
+
+</android.support.constraint.ConstraintLayout>

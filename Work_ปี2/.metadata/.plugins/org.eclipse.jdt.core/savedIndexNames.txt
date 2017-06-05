@@ -1,0 +1,22 @@
+INDEX VERSION 1.129+C:\Users\lenovo\Work_Ле2\.metadata\.plugins\org.eclipse.jdt.core
+749124478.index
+873385963.index
+813119086.index
+1151585864.index
+3599866511.index
+2734891372.index
+1512481389.index
+3245952837.index
+723304977.index
+2721949157.index
+890416729.index
+627756762.index
+4048140930.index
+4143305626.index
+3189733512.index
+834043783.index
+468028197.index
+525683084.index
+389389742.index
+196973030.index
+959997580.index
