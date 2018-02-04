@@ -2,7 +2,7 @@ package game;
 
 public class Game {
 
-	public static final int BOARD_SIZE = 9;
+	public static final int BOARD_SIZE = 3;
 
 	private Player p1;
 	private Player p2;

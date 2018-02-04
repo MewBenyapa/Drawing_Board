@@ -15,7 +15,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".list.FacultyActivity"></activity>
+        <activity android:name=".list.ChoiceActivity"></activity>
+        <activity android:name=".list.random.RandomActivity"></activity>
+        <activity android:name=".list.show.ShowActivity"></activity>
     </application>
 
 </manifest>

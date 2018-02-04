@@ -21,9 +21,9 @@ public class StartActivity extends AppCompatActivity {
         start.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent i=new Intent(
+                Intent i = new Intent(
                         StartActivity.this,
-                        FacultyActivity.class);
+                        ChoiceActivity.class);
                 startActivity(i);
             }
         });

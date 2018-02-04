@@ -1,22 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@color/DarkSalmon"
     tools:context="com.example.lenovo.kuwhere.list.StartActivity">
 
 
     <Button
         android:id="@+id/let_eat"
-        android:layout_width="221dp"
-        android:layout_height="40dp"
+        android:layout_width="411dp"
+        android:layout_height="42dp"
         android:text="Let's eat"
-        android:background="#ffffff"
+        android:background="@color/Gainsboro"
         android:textColor="#000000"
         android:textSize="30dp"
+        android:textStyle="bold"
         android:fontFamily="casual"
-        tools:layout_editor_absoluteX="82dp"
-        tools:layout_editor_absoluteY="235dp" />
+        tools:layout_editor_absoluteY="302dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        android:layout_marginTop="33dp"
+        android:layout_below="@+id/imageView"
+        android:layout_alignParentStart="true" />
 
-</android.support.constraint.ConstraintLayout>
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="204dp"
+        android:layout_height="198dp"
+        app:srcCompat="@drawable/leteat"
+        tools:layout_editor_absoluteX="90dp"
+        tools:layout_editor_absoluteY="77dp"
+        android:layout_marginTop="100dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+</RelativeLayout>
